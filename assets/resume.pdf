@@ -1,0 +1,159 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(Harveer Singh) Tj
+0 -20 Td
+(Senior Software Engineer) Tj
+0 -40 Td
+/F1 12 Tf
+(Contact:) Tj
+0 -20 Td
+(Address: Gurgaon, HR, 122001) Tj
+0 -20 Td
+(Phone: 094-566-32816) Tj
+0 -20 Td
+(Email: harveersingh93@outlook.com) Tj
+0 -40 Td
+/F1 14 Tf
+(Professional Summary) Tj
+0 -20 Td
+/F1 10 Tf
+(Forward-thinking Software Engineer with 9+ years of experience in) Tj
+0 -15 Td
+(software development and 4 years of experience in managing an) Tj
+0 -15 Td
+(backend engineering team. Proud team player focused on achieving) Tj
+0 -15 Td
+(project objectives with speed and accuracy.) Tj
+0 -30 Td
+/F1 14 Tf
+(Work Experience) Tj
+0 -25 Td
+/F1 12 Tf
+(Senior Software Engineer - AGORA \(Apr 2022 - Present\)) Tj
+0 -15 Td
+/F1 10 Tf
+(• Involved in code review to reduce technical debt) Tj
+0 -12 Td
+(• Implemented RAG service for convoAI agents) Tj
+0 -12 Td
+(• Working with development teams and DevOps) Tj
+0 -12 Td
+(• Implemented application monitoring using OTEL) Tj
+0 -12 Td
+(• Optimized AWS infra and reduced 20% of infra cost monthly) Tj
+0 -25 Td
+/F1 12 Tf
+(Senior Software Engineer - GMO Globalsign \(Sep 2020 - Apr 2022\)) Tj
+0 -15 Td
+/F1 10 Tf
+(• Designing and building fully tested microservices using AWS Lambda) Tj
+0 -12 Td
+(• Managed team of backend engineers for CLM) Tj
+0 -12 Td
+(• Involved in code review to reduce technical debt) Tj
+0 -25 Td
+/F1 12 Tf
+(Senior Software Engineer - Reliance Jio \(Mar 2020 - Sep 2020\)) Tj
+0 -15 Td
+/F1 10 Tf
+(• Designed and developed fully tested microservices) Tj
+0 -12 Td
+(• Reviewed Golang code and worked with development teams) Tj
+0 -12 Td
+(• Managed team of backend engineers) Tj
+0 -25 Td
+/F1 12 Tf
+(Software Engineer - Noon \(Nov 2017 - Jul 2019\)) Tj
+0 -15 Td
+/F1 10 Tf
+(• Designed and developed web crawler for price comparison) Tj
+0 -12 Td
+(• Designed microservices for logistics systems using Flask) Tj
+0 -25 Td
+/F1 12 Tf
+(Software Engineer - Aspire System Pvt. Ltd. \(Feb 2016 - Oct 2017\)) Tj
+0 -15 Td
+/F1 10 Tf
+(• Worked closely with QA and fixed critical bugs) Tj
+0 -12 Td
+(• Developed automation framework for QA team) Tj
+0 -30 Td
+/F1 14 Tf
+(Skills) Tj
+0 -20 Td
+/F1 10 Tf
+(Golang, Python, SQL, GRPC, Kubernetes, OOPS, API Documentation,) Tj
+0 -12 Td
+(SOLID principles, PostgreSQL, Redis, API Design, Application) Tj
+0 -12 Td
+(containerization, Terraform, AWS Services, Team Management) Tj
+0 -30 Td
+/F1 14 Tf
+(Education) Tj
+0 -20 Td
+/F1 10 Tf
+(B.Tech: ECE - Apollo Institute of Technology, Kanpur \(2010-2014\)) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000066 00000 n 
+0000000123 00000 n 
+0000000271 00000 n 
+0000002323 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2404
+%%EOF

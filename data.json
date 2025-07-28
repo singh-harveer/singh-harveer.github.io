@@ -1,0 +1,131 @@
+{
+  "personal": {
+    "name": "Harveer Singh",
+    "title": "Senior Software Engineer",
+    "summary": "Forward-thinking Software Engineer with 9+ years of experience in software development and 4 years of experience in managing an backend engineering team. Proud team player focused on achieving project objectives with speed and accuracy.",
+    "contact": {
+      "address": "Gurgaon, HR, 122001",
+      "phone": "094-566-32816",
+      "email": "harveersingh93@outlook.com"
+    },
+    "stats": {
+      "experience": "9+",
+      "management": "4+"
+    }
+  },
+  "education": {
+    "degree": "B.Tech: ECE",
+    "institution": "Apollo Institute of Technology",
+    "location": "Kanpur",
+    "duration": "2010-2014"
+  },
+  "experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "AGORA",
+      "location": "Gurgaon, Haryana",
+      "duration": "Apr 2022 - Present",
+      "achievements": [
+        "Involved in code review to reduce technical debt and producing maintainable code",
+        "Implemented RAG service which provides runtime query specific context to convoAI agents",
+        "Working closely with development teams and DevOps to design and build no-code solutions for agora",
+        "Implemented application monitoring using OTEL for system observability",
+        "Work with the business team to gather requirements and collaborate with the engineering team to design and build distributed scalable solutions to fulfill business requirements",
+        "Responsible for designing and managing backend infra",
+        "Optimized AWS infra and reduced 20% of infra cost monthly",
+        "Implemented best practice and coding guidelines"
+      ]
+    },
+    {
+      "position": "Senior Software Engineer",
+      "company": "GMO Globalsign",
+      "location": "Delhi, Delhi",
+      "duration": "Sep 2020 - Apr 2022",
+      "achievements": [
+        "Designing and building fully tested microservices using AWS Lambda for CLM",
+        "Managed team of backend engineers for CLM",
+        "Involved in code review to reduce technical debt",
+        "Working closely with other development teams to deliver highly availability solutions"
+      ]
+    },
+    {
+      "position": "Senior Software Engineer",
+      "company": "Reliance Jio",
+      "location": "Gurgaon, Haryana",
+      "duration": "Mar 2020 - Sep 2020",
+      "achievements": [
+        "Suggested improvements to team and project workflow",
+        "Designed and developed fully tested microservices for subscriptions engine",
+        "Reviewed Golang code and worked with development teams to correct problems, run test scenarios and prepare for deployment",
+        "Managed team of backend engineers"
+      ]
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Noon",
+      "location": "Gurgaon, Haryana",
+      "duration": "Nov 2017 - Jul 2019",
+      "achievements": [
+        "Designed and developed web crawler to scrape price details from competitor platforms and perform price comparison of products",
+        "Designed and developed microservices for logistics systems using Flask and deployed containerized applications using GKE"
+      ]
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Aspire System Pvt. Ltd.",
+      "location": "Gurgaon, Haryana",
+      "duration": "Feb 2016 - Oct 2017",
+      "achievements": [
+        "Worked closely with QA and fixed critical bugs",
+        "Developed automation framework for QA team"
+      ]
+    }
+  ],
+  "skills": {
+    "programming": [
+      { "name": "Golang", "level": 95 },
+      { "name": "Python", "level": 90 },
+      { "name": "SQL", "level": 85 }
+    ],
+    "databases": [
+      { "name": "PostgreSQL", "level": 90 },
+      { "name": "Redis", "level": 85 }
+    ],
+    "devops": [
+      { "name": "Kubernetes", "level": 88 },
+      { "name": "AWS Services", "level": 92 },
+      { "name": "Terraform", "level": 80 }
+    ],
+    "architecture": [
+      { "name": "GRPC", "level": 85 },
+      { "name": "API Design", "level": 90 },
+      { "name": "SOLID Principles", "level": 88 },
+      { "name": "Application Containerization", "level": 85 },
+      { "name": "OOPS", "level": 88 },
+      { "name": "API Documentation", "level": 90 }
+    ],
+    "management": [
+      { "name": "Team Management", "level": 85 },
+      { "name": "Code Review", "level": 90 },
+      { "name": "Project Planning", "level": 85 }
+    ]
+  },
+
+  "highlights": [
+    {
+      "icon": "fas fa-server",
+      "title": "System Architecture",
+      "description": "Expert in microservices, distributed systems, and scalable backend infrastructure"
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "title": "Performance Optimization",
+      "description": "Achieved 20% AWS infrastructure cost reduction and improved system observability"
+    },
+    {
+      "icon": "fas fa-robot",
+      "title": "AI Integration",
+      "description": "Implemented RAG services and AI agents for intelligent automation solutions"
+    }
+  ]
+}
